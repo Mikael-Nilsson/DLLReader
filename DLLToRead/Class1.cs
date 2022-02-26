@@ -8,7 +8,6 @@ namespace DLLToRead
         public Class1(float parm1) {
             parm = parm1;
         }
-
         public Class1() {
             parm = 0;
         }
